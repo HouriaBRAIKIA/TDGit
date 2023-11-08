@@ -7,6 +7,11 @@ public class Animal{
         abs+=x;
         ord+=y;
     }
+	
+	public void seDeplacerAA(int x, int y){
+        abs+=x;
+        ord+=y;
+    }
 }
 
 
